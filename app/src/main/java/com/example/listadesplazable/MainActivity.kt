@@ -81,5 +81,5 @@ fun AffirmationCard(affirmation: Affirmation, modifier: Modifier = Modifier) {
 @Preview(showBackground = true)
 @Composable
 private fun AffirmationCardPreview() {
-    AffirmationCard(Affirmation(R.string.affirmation2, R.drawable.image2))
+    AffirmationCard(Affirmation(R.string.affirmation5, R.drawable.image3))
 }
